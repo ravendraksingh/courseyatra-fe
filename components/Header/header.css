@@ -1,0 +1,6 @@
+.cy-nav-link {
+    color: #000;
+}
+.cy-nav-link:hover {
+    color: var(--cy-orange);
+}

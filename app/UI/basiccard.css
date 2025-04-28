@@ -1,0 +1,8 @@
+.basic-card {
+    width: 100%;
+    max-width: 400px;
+    /* background-color: #00486c; */
+    background-color: #023047;
+    color: #ffffff;
+    border-radius: 8px;
+}
